@@ -44,3 +44,8 @@ Vamos a forzar
 un salto de linea  
 con dos espacios  
 en blanco
+
+[![](https://josefacchin.com/wp-content/uploads/2020/02/como-quitar-el-fondo-de-una-imagen.png)](https://josefacchin.com/como-quitar-el-fondo-de-una-imagen/)
+
+
+![](Imagenes\linda-pequena-abeja-dibujos-animados-volando_188253-3805.jpg)
